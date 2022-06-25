@@ -27,6 +27,7 @@
 			<groupId>org.jboss.resteasy</groupId>
 			<artifactId>resteasy-jaxrs</artifactId>
 			<version>2.2.1.GA</version>
+			<!-- Uncomment the provided scope if you run web project on JBoss-->
 			<scope>provided</scope>
 		</dependency>
 
