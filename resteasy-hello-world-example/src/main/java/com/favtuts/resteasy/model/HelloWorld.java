@@ -1,4 +1,4 @@
-package com.favtuts.resteasytutorial.model;
+package com.favtuts.resteasy.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

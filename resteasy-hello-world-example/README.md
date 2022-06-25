@@ -10,8 +10,14 @@ $ https://github.com/favtuts/java-jax-rs-tutorials.git
 $ cd resteasy-hello-world-example
 ```
 
-Run the web project on Tomcat or JBoss server, then test URLs:
+Run the web project on Tomcat or JBoss server, 
+
+Then test URLs on browser:
 ```
-Test 1 : http://localhost:8080/RESTfulExample/rest/message/favtuts
-Test 2 : http://localhost:8080/RESTfulExample/rest/message/hello%20world
+http://localhost:8080/resteasy-hello-world-example/restapi/hello
+```
+
+Or run the unit test
+```
+mvn test
 ```

@@ -1,4 +1,4 @@
-package com.favtuts.resteasytutorial.resource;
+package com.favtuts.resteasy.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -6,8 +6,12 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.favtuts.resteasytutorial.model.HelloWorld;
+import com.favtuts.resteasy.model.HelloWorld;
 
+
+/**
+ * Hello World rest api using resteasy
+ */
 @Path("hello")
 public class HelloWorldResource {
 

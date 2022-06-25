@@ -1,4 +1,4 @@
-package com.favtuts.resteasytutorial.resource;
+package com.favtuts.resteasy.resource;
 
 import java.util.HashSet;
 import java.util.Set;
