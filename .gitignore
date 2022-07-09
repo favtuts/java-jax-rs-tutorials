@@ -22,6 +22,7 @@ target
 .project
 .classpath
 .settings
+Servers
 
 
 #### https://raw.githubusercontent.com/ghusta/jaxrs-sample-jersey/master/.gitignore
