@@ -13,7 +13,7 @@ public class XMLService {
 	public User getUserInXML() {
 
 		User user = new User();
-		user.setUsername("mkyong");
+		user.setUsername("favtuts");
 		user.setPassword("password");
 		user.setPin(123456);
 		
